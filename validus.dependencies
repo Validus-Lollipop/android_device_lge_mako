@@ -1,9 +1,9 @@
 [
  {
    "remote": "gh",
-   "repository":  "SlimRoms/device_lge_mako-kernel",
-   "target_path": "device/lge/mako-kernel",
-   "revision": "lp5.0"
+   "repository":  "CyanogenMod/android_kernel_google_msm",
+   "target_path": "kernel/google/msm",
+   "revision": "cm-12.0"
  },
  {
    "remote": "gh",
